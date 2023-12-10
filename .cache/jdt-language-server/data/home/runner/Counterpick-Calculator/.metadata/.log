@@ -1,0 +1,4280 @@
+!SESSION 2023-12-09 08:48:08.765 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:15.677
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.112
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.521
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.524
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.607
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.610
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.775
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.782
+!MESSAGE Wait for AutoBuildOffJob end 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.782
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.783
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.784
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.785
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:17.992
+!MESSAGE Started org.eclipse.buildship.core 205ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:18.140
+!MESSAGE LoadingGradleVersionJob finished 143ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:18.543
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:18.590
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:19.899
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+!SESSION 2023-12-09 08:48:27.190 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:48:35.166
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+!SESSION 2023-12-09 11:01:01.491 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:09.505
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.089
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.674
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.676
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.695
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.774
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.799
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.868
+!MESSAGE Wait for AutoBuildOffJob end 61ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.869
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.871
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.874
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:11.876
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:12.272
+!MESSAGE Started org.eclipse.buildship.core 396ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:12.368
+!MESSAGE LoadingGradleVersionJob finished 95ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:12.613
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:12.868
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:13.687
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:22.186
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-09 11:01:22.493
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-09 11:01:22.498
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-09 11:01:22.568
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-09 11:01:22.568
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-09 11:01:22.568
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:22.670
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:23.375
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:23.591
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:23.595
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:23.596
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:26.094
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:31.078
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:32.373
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:32.380
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:32.380
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:32.474
+!MESSAGE Validated 1. Took 5950 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:32.768
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:33.584
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:35.071
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:35.073
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:35.074
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:35.682
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:35.682
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:35.683
+!MESSAGE Validated 2. Took 2415 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:35.868
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:36.168
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:36.172
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:36.177
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:36.976
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:36.978
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:36.980
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:36.988
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:37.584
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:37.671
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:37.683
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:37.770
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:38.472
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:38.473
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:38.478
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:38.482
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.169
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.175
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.179
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.183
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.678
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.680
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.681
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:39.683
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:40.076
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:40.076
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:42.073
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:42.077
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:42.079
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:42.080
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:44.180
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:44.181
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:45.388
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:45.389
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:01:45.390
+!MESSAGE Validated 3. Took 4911 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:39.511
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:39.769
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:40.278
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:40.788
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:40.868
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:40.891
+!MESSAGE Reconciled 1. Took 83 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:41.769
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:42.177
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:42.182
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:42.184
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:42.186
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:42.802
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:43.089
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:43.089
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:43.489
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:43.568
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:43.573
+!MESSAGE Validated 3. Took 2277 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:52.630
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:52.695
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:53.439
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:54.173
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:54.706
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:54.876
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:54.980
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:55.988
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:56.868
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:56.870
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:56.880
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:56.894
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:56.998
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:57.594
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:57.595
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:58.269
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:58.270
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:49:58.271
+!MESSAGE Validated 3. Took 2890 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:17.378
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:17.593
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:18.169
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:18.622
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:18.901
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:18.975
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:19.880
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:20.300
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:20.302
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:20.374
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:20.375
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:20.877
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:20.878
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:20.974
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:21.076
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:21.381
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:21.388
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:50:21.389
+!MESSAGE Validated 3. Took 2013 ms
+!SESSION 2023-12-09 11:51:09.469 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-09 11:51:15.896
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:18.373
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:20.780
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.181
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.267
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.279
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.281
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.370
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.371
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.374
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.375
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.591
+!MESSAGE Started org.eclipse.buildship.core 215ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:21.779
+!MESSAGE LoadingGradleVersionJob finished 187ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:23.289
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:28.506
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-09 11:51:28.704
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-09 11:51:28.706
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-09 11:51:28.706
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-09 11:51:28.706
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-09 11:51:28.706
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:28.890
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:28.972
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:28.980
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:28.983
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:28.984
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:33.189
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:33.193
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:33.972
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:33.972
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:34.302
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:34.307
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:34.377
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:34.380
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.168
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.169
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.176
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.178
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.582
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.583
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.595
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:35.674
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.070
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.070
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.073
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.075
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.381
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.387
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.471
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.495
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.878
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.880
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.886
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:36.895
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.084
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.086
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.089
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.089
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.474
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.475
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.478
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.480
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.790
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.868
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.870
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:37.872
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:38.268
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:38.269
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:38.294
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:40.274
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:40.277
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:40.278
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:40.279
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:41.471
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:41.475
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:42.693
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:42.695
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 11:51:42.771
+!MESSAGE Validated 3. Took 4095 ms
+!SESSION 2023-12-09 12:11:37.233 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-09 12:11:42.150
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:44.259
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.437
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.660
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.733
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.750
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.751
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.761
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.763
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.766
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:45.834
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:46.137
+!MESSAGE Started org.eclipse.buildship.core 302ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:46.232
+!MESSAGE LoadingGradleVersionJob finished 95ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:46.634
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:51.737
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-09 12:11:52.235
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-09 12:11:52.241
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-09 12:11:52.241
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-09 12:11:52.241
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-09 12:11:52.241
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:52.435
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:52.447
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:52.453
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:52.532
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:52.533
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:55.438
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:55.441
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:55.839
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:55.839
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.141
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.147
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.154
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.163
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.548
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.549
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.560
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:11:56.561
+!MESSAGE >> document/didOpen
+!SESSION 2023-12-09 12:17:16.955 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-09 12:17:21.741
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:23.536
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:24.851
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.055
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.057
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.141
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.142
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.237
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.238
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.244
+!MESSAGE ProjectRegistryRefreshJob finished 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.245
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.445
+!MESSAGE Started org.eclipse.buildship.core 200ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:25.543
+!MESSAGE LoadingGradleVersionJob finished 93ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:26.032
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:31.337
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-09 12:17:31.536
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-09 12:17:31.538
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-09 12:17:31.538
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-09 12:17:31.538
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-09 12:17:31.538
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:31.652
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:31.742
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:31.750
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:31.835
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:31.836
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:34.558
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:34.634
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:35.137
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:35.138
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:35.441
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:35.442
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:35.446
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:35.536
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:35.946
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.034
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.040
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.040
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.338
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.339
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.343
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.346
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.553
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.554
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:36.645
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:38.248
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:38.251
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:38.332
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:38.333
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:39.137
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:39.145
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:39.950
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:39.952
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:17:39.954
+!MESSAGE Validated 3. Took 2819 ms
+!SESSION 2023-12-09 12:54:44.366 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-09 12:54:52.062
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:55.152
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:57.875
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.450
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.452
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.465
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.550
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.561
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.651
+!MESSAGE Started org.eclipse.m2e.core 91ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.656
+!MESSAGE ProjectRegistryRefreshJob finished 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.657
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:58.863
+!MESSAGE Started org.eclipse.buildship.core 207ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:59.151
+!MESSAGE LoadingGradleVersionJob finished 286ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:54:59.750
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:06.961
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-09 12:55:07.372
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-09 12:55:07.378
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-09 12:55:07.378
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-09 12:55:07.378
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-09 12:55:07.379
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:07.660
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:07.686
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:07.754
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:07.757
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:07.759
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:12.975
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:13.082
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:13.975
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:13.978
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:14.765
+!MESSAGE Reconciled 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:14.851
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:14.865
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:14.955
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:14.972
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:15.055
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:15.063
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:15.075
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:15.163
+!MESSAGE Reconciled 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:15.860
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:17.186
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:17.258
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:17.259
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:17.260
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:18.204
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:18.207
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:18.989
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:18.990
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:18.991
+!MESSAGE Validated 3. Took 3132 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:19.067
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:19.107
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:19.683
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:19.691
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:19.758
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:19.768
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.256
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.262
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.271
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.274
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.563
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.567
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.572
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:20.578
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.081
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.154
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.160
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.164
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.470
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.473
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.484
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.586
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.856
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.862
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.867
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:21.964
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:23.682
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:23.683
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:23.684
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:23.685
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:24.977
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:24.978
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:26.451
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:26.452
+!MESSAGE 3 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:26.470
+!MESSAGE Validated 3. Took 4102 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.078
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.162
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.166
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.169
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.171
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.255
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.277
+!MESSAGE Reconciled 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.354
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.380
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.386
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.393
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.472
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.485
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.502
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.555
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.595
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.650
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.672
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.688
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.750
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.766
+!MESSAGE Reconciled 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.770
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:27.872
+!MESSAGE Reconciled 1. Took 58 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:28.357
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:29.000
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:29.050
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:29.052
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:29.053
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:29.750
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:29.755
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:30.466
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:30.469
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:30.479
+!MESSAGE Validated 3. Took 2123 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:30.499
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:30.598
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:32.654
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:32.681
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:32.686
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:32.687
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:33.763
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:33.765
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:34.889
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:34.894
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:34.895
+!MESSAGE Validated 3. Took 3854 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 12:55:36.569
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:17.166
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:17.651
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:21.133
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:21.891
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:21.953
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.043
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.170
+!MESSAGE Reconciled 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.355
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.464
+!MESSAGE Reconciled 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.651
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.664
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.757
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.861
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:22.954
+!MESSAGE Reconciled 1. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:23.154
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:23.262
+!MESSAGE Reconciled 1. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:24.260
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:24.269
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:24.272
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:24.273
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:24.751
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:24.965
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:24.966
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:25.367
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:25.368
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:25.376
+!MESSAGE Validated 3. Took 1711 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 13:45:25.551
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 14:10:01.945
+!MESSAGE >> document/codeAction
+!SESSION 2023-12-09 16:21:23.035 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-09 16:21:50.133
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:06.749
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:19.435
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:20.747
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:20.766
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:21.445
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:21.448
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:21.964
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:21.976
+!MESSAGE Started org.eclipse.m2e.core 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:22.541
+!MESSAGE ProjectRegistryRefreshJob finished 432ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:22.634
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:24.059
+!MESSAGE Started org.eclipse.buildship.core 1424ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:24.660
+!MESSAGE LoadingGradleVersionJob finished 598ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:25.540
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:45.277
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-09 16:22:45.873
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-09 16:22:45.905
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-09 16:22:45.906
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-09 16:22:45.909
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-09 16:22:45.953
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:46.747
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:46.963
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:47.116
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:47.154
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:47.164
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:58.309
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:58.366
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:59.822
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:22:59.836
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:00.746
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:00.748
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:00.757
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:00.860
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:02.050
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:02.059
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:02.069
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:02.135
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:03.571
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:03.638
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:03.689
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:03.715
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:04.336
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:04.337
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:04.342
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:04.347
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:05.242
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:05.245
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:05.249
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:05.255
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:06.344
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:06.366
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:06.438
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:06.439
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:06.947
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:06.956
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:07.040
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:07.048
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:08.155
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:08.159
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:08.243
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:08.246
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.035
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.036
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.073
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.145
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.652
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.657
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.745
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:09.751
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:11.221
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:11.236
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:11.379
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:11.382
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.281
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.337
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.351
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.353
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.736
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.742
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.784
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:12.889
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:13.540
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:13.583
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:13.619
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:13.677
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:14.540
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:14.545
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:14.551
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:14.553
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.077
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.146
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.166
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.177
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.795
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.819
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.873
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:15.889
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:16.467
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:16.473
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:16.540
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:16.603
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:16.976
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:19.463
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:19.538
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:19.546
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:19.550
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:20.757
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:20.757
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:21.561
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:21.637
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:21.641
+!MESSAGE Validated 3. Took 4262 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:29.340
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:40.739
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:40.856
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:41.944
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:42.388
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:42.716
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:43.287
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:43.339
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:43.615
+!MESSAGE Reconciled 1. Took 235 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:44.220
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:46.090
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:46.243
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:46.339
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:46.350
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:46.352
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:47.382
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:47.436
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:48.438
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:48.440
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:48.442
+!MESSAGE Validated 3. Took 4417 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:50.935
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:50.945
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:51.246
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:51.685
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:52.084
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:52.150
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:52.155
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:53.170
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:54.057
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:54.069
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:54.072
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:54.075
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:54.856
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:55.243
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:55.252
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:57.579
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:57.636
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:57.673
+!MESSAGE Validated 3. Took 5113 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:59.643
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:23:59.683
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:00.139
+!MESSAGE Reconciled 1. Took 269 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:00.860
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:02.549
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:02.551
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:02.554
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:02.635
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:04.272
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:04.273
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:05.370
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:05.461
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:05.469
+!MESSAGE Validated 3. Took 4927 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:05.555
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:05.644
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:06.570
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:08.245
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:08.249
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:08.269
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:08.270
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:10.262
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:10.331
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:11.563
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:11.637
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:11.651
+!MESSAGE Validated 3. Took 5016 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:11.684
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:11.754
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:11.860
+!MESSAGE Reconciled 1. Took 117 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:14.865
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:14.874
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:14.887
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:14.935
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:16.354
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:16.364
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:17.038
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:17.042
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:24:17.052
+!MESSAGE Validated 3. Took 4695 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:49.293
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:49.446
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.341
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.342
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.342
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.345
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.441
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.442
+!MESSAGE 2 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.748
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.749
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:50.750
+!MESSAGE Validated 3. Took 900 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:51.761
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:52.940
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:53.037
+!MESSAGE Reconciled 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:54.050
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:54.140
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:54.142
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:54.143
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:54.543
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:54.544
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:54.860
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:55.056
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:55.057
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:55.059
+!MESSAGE Validated 3. Took 1570 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:57.516
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:57.636
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:58.336
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:58.601
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:58.685
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:59.346
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:59.350
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:59.355
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:59.355
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:59.641
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:59.758
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:31:59.759
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:00.240
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:00.241
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:00.251
+!MESSAGE Validated 3. Took 1160 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:00.848
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:13.346
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:13.438
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:13.636
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:14.174
+!MESSAGE Reconciled 1. Took 411 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:14.640
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:14.970
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:14.976
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:14.978
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:14.979
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:15.539
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:15.541
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:15.868
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:15.951
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:15.954
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:15.959
+!MESSAGE Validated 3. Took 1330 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:42.520
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:46.298
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:32:48.496
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 16:36:42.249
+!MESSAGE >> document/codeAction
+!SESSION 2023-12-10 00:59:04.381 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 00:59:14.669
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:19.472
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:20.874
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.364
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.367
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.379
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.380
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.467
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.473
+!MESSAGE Started org.eclipse.m2e.core 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.478
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.480
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.764
+!MESSAGE Started org.eclipse.buildship.core 285ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:21.777
+!MESSAGE LoadingGradleVersionJob finished 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:22.361
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:27.970
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 00:59:28.481
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 00:59:28.483
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 00:59:28.483
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 00:59:28.483
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 00:59:28.483
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:28.781
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:28.868
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:28.879
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:28.968
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:28.969
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:32.478
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:32.480
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:33.291
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:33.298
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:33.664
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:33.667
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:33.680
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:33.765
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.182
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.188
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.196
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.202
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.499
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.505
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.563
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.569
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.775
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.777
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.779
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:34.781
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.183
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.260
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.263
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.265
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.473
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.473
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.477
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.479
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.690
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:35.691
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:37.066
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:37.079
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:37.082
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:37.083
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:38.091
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:38.137
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:38.705
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:38.706
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 00:59:38.708
+!MESSAGE Validated 3. Took 2546 ms
+!SESSION 2023-12-10 01:00:07.390 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:00:12.869
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:14.864
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.062
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.372
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.374
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.473
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.562
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.660
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.661
+!MESSAGE Started org.eclipse.m2e.core 90ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.664
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.664
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:16.881
+!MESSAGE Started org.eclipse.buildship.core 217ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:17.071
+!MESSAGE LoadingGradleVersionJob finished 188ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:22.662
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:00:22.681
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:00:22.761
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:00:22.761
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:00:22.761
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:00:22.761
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SESSION 2023-12-10 01:00:43.376 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:00:50.364
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:52.262
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.371
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.761
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.765
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.777
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.861
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.872
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.875
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.960
+!MESSAGE ProjectRegistryRefreshJob finished 85ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:53.961
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:54.074
+!MESSAGE Started org.eclipse.buildship.core 113ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:54.282
+!MESSAGE LoadingGradleVersionJob finished 206ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:00:59.873
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:01:00.061
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:01:00.062
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:01:00.062
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:01:00.063
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:01:00.063
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SESSION 2023-12-10 01:01:33.182 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:01:40.689
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:46.988
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:51.990
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:52.903
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:52.910
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:53.085
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:53.086
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:53.215
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:53.283
+!MESSAGE Started org.eclipse.m2e.core 68ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:53.384
+!MESSAGE ProjectRegistryRefreshJob finished 99ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:53.389
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:54.083
+!MESSAGE Started org.eclipse.buildship.core 695ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:54.381
+!MESSAGE LoadingGradleVersionJob finished 296ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:01:55.505
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:04.482
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:02:04.633
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:02:04.685
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:02:04.685
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:02:04.686
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:02:04.687
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:04.985
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:05.015
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:05.086
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:05.088
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:05.095
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:10.527
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:10.583
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:11.612
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.093
+!MESSAGE Reconciled 2. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.101
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.182
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.193
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.714
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.780
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.808
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:12.812
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.297
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.298
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.303
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.388
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.804
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.805
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.890
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:13.892
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.386
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.390
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.395
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.397
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.793
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.881
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.884
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:14.889
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.304
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.304
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.380
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.387
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.784
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.785
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.798
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:15.801
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.192
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.192
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.198
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.200
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.509
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.513
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.593
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:16.597
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:18.990
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:18.998
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:19.000
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:19.001
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:20.685
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:20.689
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:21.498
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:21.588
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:02:21.589
+!MESSAGE Validated 3. Took 4602 ms
+!SESSION 2023-12-10 01:12:51.589 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:12:58.652
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:01.267
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.065
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.359
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.363
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.459
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.460
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.467
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.468
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.470
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.471
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.665
+!MESSAGE Started org.eclipse.buildship.core 195ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:03.860
+!MESSAGE LoadingGradleVersionJob finished 194ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:13:10.771
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:13:11.149
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:13:11.154
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:13:11.154
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:13:11.154
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:13:11.154
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SESSION 2023-12-10 01:29:16.502 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:29:21.214
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:23.103
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.130
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.501
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.506
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.525
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.587
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.606
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.608
+!MESSAGE Started org.eclipse.m2e.core 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.614
+!MESSAGE ProjectRegistryRefreshJob finished 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.614
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.903
+!MESSAGE Started org.eclipse.buildship.core 288ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:24.916
+!MESSAGE LoadingGradleVersionJob finished 13ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:31.111
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:29:32.292
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:29:32.293
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:29:32.293
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:29:32.293
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:29:32.294
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SESSION 2023-12-10 01:33:13.911 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:33:20.690
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:23.516
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:25.821
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.312
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.316
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.420
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.421
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.512
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.514
+!MESSAGE Started org.eclipse.m2e.core 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.601
+!MESSAGE ProjectRegistryRefreshJob finished 5ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.604
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:26.810
+!MESSAGE Started org.eclipse.buildship.core 206ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:27.111
+!MESSAGE LoadingGradleVersionJob finished 299ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:33:34.397
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:33:34.519
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:33:34.593
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:33:34.593
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:33:34.594
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:33:34.594
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SESSION 2023-12-10 01:49:20.144 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:49:33.120
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:39.975
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:46.957
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.044
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.145
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.451
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.453
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.470
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.472
+!MESSAGE Started org.eclipse.m2e.core 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.518
+!MESSAGE ProjectRegistryRefreshJob finished 45ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:48.519
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:49.379
+!MESSAGE Started org.eclipse.buildship.core 860ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:49:49.504
+!MESSAGE LoadingGradleVersionJob finished 22ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:50:07.317
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:50:07.668
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:50:07.690
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:50:07.690
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:50:07.691
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:50:07.691
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SESSION 2023-12-10 01:58:37.452 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 01:58:42.163
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:44.367
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:45.650
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:45.867
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:45.950
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:45.959
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:45.959
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:46.052
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:46.053
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:46.056
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:46.056
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:46.348
+!MESSAGE Started org.eclipse.buildship.core 208ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:46.461
+!MESSAGE LoadingGradleVersionJob finished 105ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:46.950
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:51.754
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:58:52.669
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 01:58:52.673
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 01:58:52.749
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 01:58:52.750
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 01:58:52.750
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:52.879
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:52.955
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:52.964
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:53.051
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:53.052
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:56.552
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:56.556
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:56.969
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:56.970
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.356
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.359
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.370
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.457
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.858
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.859
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.861
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:57.863
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:58.252
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:58.265
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:58.356
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:58.359
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:58.581
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:58.664
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:58:58.755
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:00.458
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:00.460
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:00.462
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:00.462
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:01.350
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:01.351
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:02.368
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:02.369
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:59:02.450
+!MESSAGE Validated 3. Took 3300 ms
+!SESSION 2023-12-10 02:11:49.073 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 02:11:56.346
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:11:59.372
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:01.556
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:01.858
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:01.861
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:01.956
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:01.957
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:01.967
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:01.969
+!MESSAGE Started org.eclipse.m2e.core 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:02.046
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:02.050
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:02.256
+!MESSAGE Started org.eclipse.buildship.core 206ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:02.654
+!MESSAGE LoadingGradleVersionJob finished 308ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:03.075
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:10.059
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 02:12:10.252
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 02:12:10.256
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 02:12:10.257
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 02:12:10.257
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 02:12:10.257
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:10.456
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:10.469
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:10.545
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:10.560
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:10.561
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:15.174
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:15.197
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:16.188
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:16.246
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:16.869
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:16.872
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:16.886
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:16.954
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:17.269
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:17.344
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:17.348
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:17.351
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.164
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.166
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.171
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.178
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.560
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.563
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.566
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.571
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.947
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.949
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.952
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:18.955
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:19.185
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:19.244
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:19.249
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:19.255
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:19.558
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:19.560
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:21.279
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:21.345
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:21.350
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:21.351
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:22.471
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:22.472
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:22.957
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:22.958
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:12:22.960
+!MESSAGE Validated 3. Took 2992 ms
+!SESSION 2023-12-10 02:14:59.252 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 02:15:05.651
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:08.058
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.185
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.460
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.544
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.657
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.658
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.748
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.750
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.755
+!MESSAGE ProjectRegistryRefreshJob finished 4ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:10.757
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:11.049
+!MESSAGE Started org.eclipse.buildship.core 292ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:11.157
+!MESSAGE LoadingGradleVersionJob finished 107ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:11.744
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:18.054
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 02:15:18.155
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 02:15:18.157
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 02:15:18.157
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 02:15:18.157
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 02:15:18.157
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:18.364
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:18.543
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:18.545
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:18.551
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:18.553
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:22.046
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:22.048
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:22.844
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:22.845
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:23.160
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:24.848
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:24.853
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:24.854
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:24.855
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:25.563
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:25.564
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:26.057
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:26.058
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 02:15:26.143
+!MESSAGE Validated 3. Took 2516 ms
+!SESSION 2023-12-10 11:42:12.376 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-10 11:42:17.783
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:20.091
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.184
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.486
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.489
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.592
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.594
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.686
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.688
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.786
+!MESSAGE ProjectRegistryRefreshJob finished 90ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:21.796
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:22.076
+!MESSAGE Started org.eclipse.buildship.core 287ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:25.684
+!MESSAGE LoadingGradleVersionJob finished 3607ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:26.176
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:30.783
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 11:42:30.889
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-10 11:42:30.890
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-10 11:42:30.891
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-10 11:42:30.891
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-10 11:42:30.891
+!MESSAGE /home/runner/Counterpick-Calculator overlaps the workspace location: /home/runner/Counterpick-Calculator/.cache/jdt-language-server/data/home/runner/Counterpick-Calculator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:31.174
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:31.185
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:31.194
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:31.279
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:31.280
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:34.087
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:34.088
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:34.888
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:34.891
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:35.498
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:35.499
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:35.576
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:35.585
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:35.993
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.074
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.076
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.078
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.497
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.499
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.576
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.579
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.786
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.786
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.788
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.790
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:36.992
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.074
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.077
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.081
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.382
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.383
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.385
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.387
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.590
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.591
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.596
+!MESSAGE Clearing problems for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.675
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.884
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.884
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.888
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:37.974
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:38.284
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:38.286
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:38.289
+!MESSAGE Clearing problems for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:38.291
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:38.488
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:38.576
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:38.593
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:40.184
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:40.284
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:40.382
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:40.384
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:40.384
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:41.393
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:41.398
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:42.284
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:42.285
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:42:42.374
+!MESSAGE Validated 3. Took 3300 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:08.269
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:23.824
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:23.942
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:25.372
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:27.789
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:28.434
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:29.473
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:30.345
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:30.374
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:30.751
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:33.059
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:34.761
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:50.312
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:43:52.716
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:44:00.589
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:44:11.354
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:44:40.850
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:44:45.586
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:03.065
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:05.885
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:07.834
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:10.020
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:12.334
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:40.708
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:41.204
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:42.917
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:45.710
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:46.395
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:47.517
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:48.074
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:49.307
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:52.732
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:54.309
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:54.515
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:54.683
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:54.774
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:55.320
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:45:55.446
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:00.188
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:00.421
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:00.442
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:01.857
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:23.075
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:23.853
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:24.034
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:24.939
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:25.735
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:26.074
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:27.017
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:27.868
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:28.860
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:29.503
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:32.690
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:33.360
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:33.718
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:35.653
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:46:39.084
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:48:04.913
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:48:05.290
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:36.257
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:36.289
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:36.328
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:36.675
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:39.249
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:39.375
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:39.381
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:44.436
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:45.186
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:49.264
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:51:49.777
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:56:44.274
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:56:47.223
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:58:14.637
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:58:48.155
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:58:50.835
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:58:50.974
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:00.321
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:08.106
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:20.689
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:24.333
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:24.904
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:27.138
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:28.378
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:32.203
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:34.210
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 11:59:56.928
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:00:00.162
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:00:00.918
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:00:34.203
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:02:23.126
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:02:37.205
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:02:41.126
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:02:43.391
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:03:04.612
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:04.892
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.219
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.263
+!MESSAGE Reconciled 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.292
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.334
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.386
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.397
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.400
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.674
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.705
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.856
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:05.910
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:08.182
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:08.452
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:08.464
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:08.472
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:08.979
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:09.080
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:09.083
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:09.632
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:09.633
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:11.139
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:11.177
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:11.379
+!MESSAGE Validated 3. Took 4862 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:11.387
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:11.396
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:11.400
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:11.501
+!MESSAGE Reconciled 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:12.514
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:12.595
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:13.147
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:13.166
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:13.176
+!MESSAGE Resource leak: 'scan' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:13.199
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:14.025
+!MESSAGE begin problem for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:14.026
+!MESSAGE 1 problems reported for /Agents.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:14.883
+!MESSAGE begin problem for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:14.883
+!MESSAGE 1 problems reported for /MapAndPick.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:14.884
+!MESSAGE Validated 3. Took 2404 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:26.275
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:27.274
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:27.292
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:04:27.296
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:09:21.351
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 12:11:53.113
+!MESSAGE >> document/hover

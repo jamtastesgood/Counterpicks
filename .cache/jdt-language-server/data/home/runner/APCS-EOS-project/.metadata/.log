@@ -1,0 +1,103 @@
+!SESSION 2023-12-09 08:40:56.166 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/APCS-EOS-project/.cache/jdt-language-server/data/home/runner/APCS-EOS-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:05.595
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:07.972
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.371
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.373
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.381
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.381
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.465
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.469
+!MESSAGE Wait for AutoBuildOffJob end 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.470
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.471
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.562
+!MESSAGE ProjectRegistryRefreshJob finished 86ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.567
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:08.762
+!MESSAGE Started org.eclipse.buildship.core 196ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:12.570
+!MESSAGE LoadingGradleVersionJob finished 3807ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:12.862
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:13.061
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:13.966
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:19.674
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-09 08:41:20.075
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:107)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:244)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description.
+Contains: OK
+Contains: /home/runner/APCS-EOS-project overlaps the workspace location: /home/runner/APCS-EOS-project/.cache/jdt-language-server/data/home/runner/APCS-EOS-project
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2023-12-09 08:41:20.176
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2023-12-09 08:41:20.176
+!MESSAGE Invalid project description.
+!SUBENTRY 3 unknown 0 0 2023-12-09 08:41:20.176
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2023-12-09 08:41:20.176
+!MESSAGE /home/runner/APCS-EOS-project overlaps the workspace location: /home/runner/APCS-EOS-project/.cache/jdt-language-server/data/home/runner/APCS-EOS-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:20.371
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:20.466
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:20.696
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:20.712
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:20.774
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:41:20.775
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-09 08:42:14.500
+!MESSAGE >> document/didOpen
